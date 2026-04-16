@@ -1,0 +1,13 @@
+# ML Framework - Required Dependencies
+numpy>=1.20.0
+scipy>=1.7.0
+scikit-learn>=0.24.0
+
+# PyTorch backend (optional but recommended)
+torch>=1.9.0
+
+# TensorFlow backend (alternative to PyTorch)
+tensorflow>=2.6.0
+
+# Optional: TensorBoard for visualization
+tensorboard>=2.7.0
